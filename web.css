@@ -1,0 +1,118 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: aqua;
+}
+.container{
+    margin: 0% auto;
+    max-width: 900px;
+    
+    background-color: rgb(101, 90, 112);
+}
+.pho{
+    
+    width: 100px;
+    height: 100px;
+}
+.pho{
+    padding: 5px;
+    border-radius: 50%;
+    float: left;
+}
+
+.psec{
+    color: rgb(224, 113, 9);
+font-size: 15px;
+}
+
+.hed1{
+    padding: 25px;
+ float: left;   
+}
+.hed2{
+    padding: 10px;
+    float: right;
+padding: 20px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(131, 197, 17);
+}
+
+.div-clear{
+    clear: both;
+}
+.hedhr{
+    border: 2px solid black;
+   width: 100%;
+    margin: 20px auto ;
+    }
+#presonal-section{
+margin-bottom: 30px;
+}
+.per-div{
+padding: 5px;
+}
+.per-div1{
+    
+    width: 30%;
+float: left;
+}
+.per-div2{
+    
+float: left;
+width: 70%;
+}
+.clear2{
+    clear: both;
+}
+.sectionhr{
+  border: 1px solid black;
+  width: 100%; 
+  margin: 20px auto;
+}
+.work-section{}
+.work-sectiondiv{
+    padding: 5px;
+}
+.Education-div{
+    padding: 5px;
+}
+.edu1{
+    float: left;
+    width: 30%;
+}
+.edu2{
+    float: left;
+}
+.lff{
+    float: left;
+    
+}
+.rgg{
+    float: right;
+    margin-left: 50px;
+    
+}
+.foot{
+    padding: 5px;
+    text-align: center;
+  background-color: black;
+  max-width: 900px;  
+  max-height: 300px;
+  
+}
+.foot a{
+    
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+}
+.pra{
+    margin-top: 20px;
+    color: white;
+}
+.mastersdiv{
+    padding: 5px;
+}
